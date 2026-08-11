@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "de1_exchange",
-  "VITE_ORDERLY_BROKER_NAME": "De1 Exchange",
+  "VITE_ORDERLY_BROKER_NAME": "De1 Exchange1",
   "VITE_BROKER_EOA_ADDRESS": "0x4b1921f0311cbb1d73774edb295ef6fbfb864766",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "De1 Exchange",
+  "VITE_APP_NAME": "De1 Exchange1",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
